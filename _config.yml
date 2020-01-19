@@ -30,7 +30,7 @@ twitter_username: cdkagaya
 github_username:  cdkagaya
 
 # Build settings
-theme: minima
+theme: jekyll-theme-time-machine
 plugins:
   - jekyll-feed
 
